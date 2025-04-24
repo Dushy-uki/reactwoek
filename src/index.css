@@ -1,0 +1,121 @@
+.nav{
+    display: flex;
+    margin-left: 10%;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+
+}
+.align{
+    margin-left: 70%;
+    font-size: 20px;
+}
+.sec2{
+    background-color: rgb(254, 236, 210);
+    padding: 100px;
+    display: flex;
+    font-size: 20px;
+}
+
+.amigo{
+    margin-top: 90px;
+    margin-left: 15%;
+}
+.image{
+    margin-left:10%;
+}
+.work{
+    margin-left: 15%;
+    margin-top: 30px;
+}
+.sec3{
+    display: flex;
+}
+.text{
+    margin-top: 120px;
+    margin-left: 15%;
+}
+.one{
+    
+    display: flex;
+    margin-top: 5%;
+}
+.sec4{
+    background-color:rgb(252, 245, 238);
+    
+}
+.box{
+    height: 420px;
+    width: 420px;
+    font-size: 40px;
+    box-shadow: 5px 5px #888888;
+}
+.imgbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 100px;
+    margin-top: 50px;
+}
+h3::after{
+    content: '' ;
+    background-color: rgb(241, 207, 14);
+    height: 3px;
+    width: 30%;
+    position: absolute;
+    bottom: -50%;
+    left: 35%;
+    
+}
+h3{
+    position: relative;
+    width: max-content;
+    margin-left: 40%;
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    font-size: 40px;
+    box-shadow: 5px 8px #888888;
+}
+.pbox{
+    display: flex;
+    align-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 60px;
+}
+.btn1{
+    padding: 10px 40px;
+    background-color:rgba(252, 250, 243, 0.616);
+    font-size: 20px;
+    outline: auto;
+}
+.active, .btn1:hover:hover {
+    background-color:rgb(255, 86, 86);
+    color: white;
+}
+.form{
+    margin-left: 35%;
+    box-shadow: 40px;
+}
+.btn{
+    background-color: rgb(253, 192, 118);
+    border-radius: 10px;
+}
+.boxForm{
+
+    box-shadow: 20px;
+    width: 60%;
+   
+}
+#form{
+    width: 600px;
+    margin: 20vh auto 0 auto;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 5%;
+}
