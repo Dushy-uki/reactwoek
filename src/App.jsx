@@ -10,9 +10,11 @@ function App() {
   return (
     <>
     <Nav/>
+    
      <Routes>
       <Route path="/" element={<Home/>}/>
       <Route path="/Contact" element={<Contact/>}/>
+      <Route path="/reactwoek" element={<Home/>}/>
     </Routes>
     <Footer/>
     </>

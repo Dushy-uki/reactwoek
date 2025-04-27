@@ -5,11 +5,12 @@
 .logo{
     width: 80px;
     height: 80px;
-
 }
 .align{
     margin-left: 70%;
     font-size: 20px;
+    gap: 30px;
+    margin-top: 20px;
 }
 .sec2{
     background-color: rgb(254, 236, 210);
@@ -90,7 +91,7 @@ h3{
 }
 .btn1{
     padding: 10px 40px;
-    background-color:rgba(252, 250, 243, 0.616);
+    background-color:rgba(248, 92, 45, 0.616);
     font-size: 20px;
     outline: auto;
 }
@@ -118,4 +119,7 @@ h3{
     background-color: whitesmoke;
     border-radius: 20px;
     padding: 5%;
+}
+.Amigo{
+    font-size: 50px;
 }

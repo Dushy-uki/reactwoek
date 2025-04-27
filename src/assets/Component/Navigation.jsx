@@ -10,8 +10,8 @@ function Nav(){
             <img src={Logo} alt="logo" className="logo"/>
             
             <div className="align">
-            <Link to="/">Home</Link>
-            <Link to="/Contact">Contact</Link>
+            <Link to="/">Home | </Link>
+            <Link to="/Contact">  Contact</Link>
             </div>
          </div>
         </nav>
